@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">NetworkExample4</string>
+    <string name="btn_get_website_text">Get Website</string>
+    <string name="tv_result_title_text">Result:</string>
+    <string name="tv_result_text">(nothing yet)</string>
+
+</resources>
+
+
+
+
+
